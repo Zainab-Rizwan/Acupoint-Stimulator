@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076522290288",
+    "project_id": "acupoint-stimulator",
+    "storage_bucket": "acupoint-stimulator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076522290288:android:db4a3fc9e27f900dad38b5",
+        "android_client_info": {
+          "package_name": "com.example.acupoint_stimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076522290288-7kfrijjfivnbl0amc1vbcalmrdlurf01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXI_RQ2zao0bLGmAvZoLUADdulufo97nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076522290288-7kfrijjfivnbl0amc1vbcalmrdlurf01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
